@@ -146,8 +146,7 @@ This project is open source and available for educational purposes.
 ## Author
 
 **Himanshu Sharma**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: [Himanshu Sharma](https://www.linkedin.com/in/himanshush31/))
 
 ## Acknowledgments
 
